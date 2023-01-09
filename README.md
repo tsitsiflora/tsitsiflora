@@ -27,15 +27,15 @@
   
 
 
-You can contact me on LinkedIn[follow this link](https://linkedin.com/in/tsitsiflora)
-Or take a look at my blog: [here it is](https://tsitsiflora.github.io/)
+- You can contact me on LinkedIn: [follow this link](https://linkedin.com/in/tsitsiflora).
+- Or take a look at my blog: [here it is](https://tsitsiflora.github.io/), [some posts are on medium](https://medium.com/@tsitsiflora).
 
 
 - 🔭 I’m currently working on : Burp Suite Academy Labs
 - 🌱 I’m currently learning : AWS Security, via the flAWS.cloud project
 - 👯 I’m looking to collaborate on : Bug Bounty exercises
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about : Anything really, I'll try my best to answe
+- 💬 Ask me about : Anything security related, I'll try my best to answer
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/tsitsiflora)
 - ⚡ Fun fact: I eat too much ice cream
 
