@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tsitsi! <br/>,<a href="https://www.linkedin.com/in/joshmadakor/">Security Engineer</a>, <a href="https://github.com/tsitsiflora">And sometimes I code</a>
+<h1>Hi, I'm Tsitsi! <br/>I am a <a href="https://www.linkedin.com/in/tsitsiflora/">Security Engineer</a>, and sometimes <a href="https://github.com/tsitsiflora">I code</a>
 
 <h2>👨‍💻 Software Development Projects(more like scripts hehe):</h2>
 
@@ -14,7 +14,9 @@
   - [Cyber Threat Intelligence](https://github.com/tsitsiflora/cyber_threat_intelligence)
   
   
- - <b> My skills</b>
+  
+  
+- <b> My skills</b>
   - Scripting (Python, Bash, Ruby, Powershell)
   - Web technologies (http/s, ssl/tls, tcp/ip, udp)
   - Penetration testing (Kali Linux, Burp Suite, Nessus, Metasploit, Nmap, Nikto, gobuster, ffuf)
@@ -35,5 +37,5 @@ Or take a look at my blog: [here it is](https://tsitsiflora.github.io/)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about : Anything really, I'll try my best to answe
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/tsitsiflora)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I eat too much ice cream
 
